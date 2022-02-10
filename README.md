@@ -5,12 +5,12 @@ Computer Science undergraduate student @ City University of São Paulo.
 Currently in São Paulo, SP, Brazil.
 
 Social medias;  
-![https://flickr.com/photos/jessicaccp](https://img.shields.io/badge/Flickr-0063DC?style=flat&logo=flickr&logoColor=white)
-![https://github.com/jessicaccp/](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![https://jessicaccp.github.io/](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github%20pages&logoColor=white)
-![https://instagram.com/jessicaccp/](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-![https://last.fm/user/jessicaccp](https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white)
-![https://linkedin.com/in/jessicaccp/](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+[![](https://img.shields.io/badge/Flickr-0063DC?style=flat&logo=flickr&logoColor=white "Flickr")](https://flickr.com/photos/jessicaccp/)
+[![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white "GitHub")](https://github.com/jessicaccp/)
+[![](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github%20pages&logoColor=white "GitHub Pages")](https://jessicaccp.github.io/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white "Instagram")](https://instagram.com/jessicaccp/)
+[![](https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white "last.fm")](https://last.fm/user/jessicaccp/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/jessicaccp/)
 
 Skills, competencies, tools;  
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)
