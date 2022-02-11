@@ -1,18 +1,17 @@
-*Hello, world!* ✨
+## *Hello, world!* ✨
 
-I'm Jessica; @jessicaccp.  
+I'm **Jessica**; @jessicaccp; she/her.  
 Computer Science undergraduate student @ City University of São Paulo.  
 Currently in São Paulo, SP, Brazil.
 
-Social medias;  
-[![](https://img.shields.io/badge/Flickr-0063DC?style=flat&logo=flickr&logoColor=white "Flickr")](https://flickr.com/photos/jessicaccp/)
-[![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white "GitHub")](https://github.com/jessicaccp/)
-[![](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github%20pages&logoColor=white "GitHub Pages")](https://jessicaccp.github.io/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white "Instagram")](https://instagram.com/jessicaccp/)
-[![](https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white "last.fm")](https://last.fm/user/jessicaccp/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/jessicaccp/)
+#### Where to find me;  
+[![](https://img.shields.io/badge/flickr.com/photos/jessicaccp-0063DC?style=flat&logo=flickr&logoColor=white "Flickr")](https://flickr.com/photos/jessicaccp/)
+[![](https://img.shields.io/badge/jessicaccp.github.io-222222?style=flat&logo=github%20pages&logoColor=white "GitHub Pages")](https://jessicaccp.github.io/)
+[![](https://img.shields.io/badge/instagram.com/jessicaccp-E4405F?style=flat&logo=instagram&logoColor=white "Instagram")](https://instagram.com/jessicaccp/)
+[![](https://img.shields.io/badge/last.fm/user/jessicaccp-D51007?style=flat&logo=last.fm&logoColor=white "last.fm")](https://last.fm/user/jessicaccp/)
+[![](https://img.shields.io/badge/linkedin.com/in/jessicaccp-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/jessicaccp/)
 
-Skills, competencies, tools;  
+#### Skills, competencies, tools;  
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
@@ -39,7 +38,7 @@ Skills, competencies, tools;
 ![](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
 
-My workstation;  
+#### My workstation;  
 ![](https://img.shields.io/badge/Acer-83B81A?style=flat&logo=acer&logoColor=white)
 ![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
 ![](https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white)
