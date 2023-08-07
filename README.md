@@ -27,6 +27,6 @@ And here are some of my skills, competencies and technologies I use on a daily b
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jessicaccp&show_icons=true&include_all_commits=true&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessicaccp&layout=compact&langs_count=8&card_width=320" />
 </a>
