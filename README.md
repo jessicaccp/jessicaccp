@@ -1,20 +1,20 @@
 # Hello, world! ✨
 
-**tl;dr:** Jessica, Computer Science, SP/Brazil, Programming, Web Development.
+**tl;dr:** Jessica, Full Stack developer, BSc in Computer Science, SP/Brazil.
 
 ## About me
 
-I'm Jessica, Computer Science undergraduate student at City University of São Paulo and based on Santo André, Brazil.
+I'm Jessica, a developer based on São Paulo, Brazil.
 
-Currently I'm working mostly on my programming and web development skills. Some of my other main interests include data science, cloud computing and image manipulation. Hope one day I get the time to know everything that is to know about them all. I really like to learn and to know specificities about everything.
+I've recently got a bachelor's degree in Computer Science and I'm currently working on my full stack development skills. Some of my other main interests include cloud computing and data science. I hope one day I get the time to know everything that is to know about them all. I really like to learn and to know specificities about everything.
 
-When offline, there is a great chance that I'm playing with my cats, watching doramas (my recently found new hobby) or taking and editing photos.
+When offline, there is a great chance that I'm playing with my cats, watching k-dramas or taking and editing photos.
 
 ## Contact info
 
 Feel free to contact me or check my social networks linked below :)
 
-[![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square)](https://jessicaccp.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square)](mailto:46j0yxyj5@mozmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/jessicaccp/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)](https://www.instagram.com/jessica.logs/) [![Last.fm Badge](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=fff&style=flat-square)](https://last.fm/user/jessicaccp/) [![Flickr Badge](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff&style=flat-square)](https://www.flickr.com/photos/jessicaccp/)
+[![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square)](https://jessicaccp.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square)](mailto:jessicacacau@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/jessicaccp/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)](https://www.instagram.com/jessica.logs/) [![Last.fm Badge](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=fff&style=flat-square)](https://last.fm/user/nottodayjessica/) [![Flickr Badge](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff&style=flat-square)](https://www.flickr.com/photos/jessicaccp/)
 
 ## Badges
 
