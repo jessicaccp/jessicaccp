@@ -33,4 +33,4 @@ And here are some of my skills, competencies and technologies I use on a daily b
 
 ## What I've been listening
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=nottodayjessica&width=400&loved=true&show_user=header&header_style=compact&footer_style=compact_stats&border_radius=0&loved_style=1)](https://www.last.fm/user/nottodayjessica)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=nottodayjessica&width=400&loved=true&show_user=header&header_style=compact&footer_style=compact_stats&border_radius=5&loved_style=1&count=3)](https://www.last.fm/user/nottodayjessica)
