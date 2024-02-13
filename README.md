@@ -31,6 +31,6 @@ And here are some of my skills, competencies and technologies I use on a daily b
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jessicaccp&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## What I've been listening
+## What I've been listening to
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=nottodayjessica&width=400&loved=true&show_user=header&header_style=compact&footer_style=compact_stats&border_radius=5&loved_style=1&count=3)](https://www.last.fm/user/nottodayjessica)
