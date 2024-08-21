@@ -1,14 +1,16 @@
 # Hello, world! ✨
 
-**tl;dr:** Jessica Patricio, Front-End Developer, BSc in Computer Science, Fortaleza/Brazil.
+**tl;dr:** Jessica Patricio, Front-End Developer, BSc in Computer Science, Fortaleza, Brazil.
 
 ## About me
 
-I'm Jessica Patricio, a developer based on Fortaleza, Brazil.
+Hi there! I'm Jessica Patricio, a front-end developer based on Fortaleza, Brazil.
 
-I'm currently working as a Front-End Developer on Laboratory of Computer Networks and Security (LARCES), where I mostly use React and Tailwind CSS. I have a Bachelor's degree in Computer Science from University City of São Paulo (UNICID) and I'm planning on doing a specialization in Software Engineering. My main interests include full stack development, internet and graphic art. I hope one day I get the time to know everything that is to know about them all. I really like to learn and to know specificities about everything.
+I currently work creating web experiences with React and Tailwind CSS at Laboratory of Computer Networks and Security (LARCES). I hold a Bachelor's degree in Computer Science from the University of São Paulo (UNICID) and my current goal is to master front-end development and to eventually expand my skills to full-stack.
 
-When offline, there is a great chance that I'm playing with my cats, watching k-dramas or taking and editing photos.
+My current focus is on React, Tailwind CSS, JavaScript, HTML and CSS. I also have experience with Python, Flask, MySQL, Apache, Docker and WordPress.
+
+When I'm not coding, I'm probably spending time with my cats, listening to k-pop or playing mobile games. I also have a passion for digital art and photo editing.
 
 ## Contact info
 
