@@ -1,24 +1,28 @@
-# jessica patricio
+# Jessica Patricio
 
-full-stack developer · fortaleza, brazil · jessicacacau@gmail.com · [jessicaccp.github.io](https://jessicaccp.github.io/)
-
----
-
-cs graduate, software engineering postgrad, currently working at [LARCES](https://larces.uece.br) in full-stack development and network security research.
-
-overthinking, not overspeaking. noticing more than letting on. simple and solid over clever and fragile. not taking up much space, but that's on purpose.
-
-there's always music playing somewhere in my head. art in all its forms is something i carry around. photography is a parallel life that comes to mind sometimes. writing code is not that far from it.
+Full-stack Developer · Fortaleza, Brazil · [Email](mailto:jessicacacau@gmail.com) · [LinkedIn](https://linkedin.com/in/jessicaccp) · [Google Scholar](https://scholar.google.com.br/citations?user=UnCWoWcAAAAJ&hl=pt-BR)
 
 ---
 
-**stack**
+## What I Do
 
-`Python` `TypeScript` `Django` `FastAPI` `React` `Nuxt` `PostgreSQL` `MongoDB` `Docker`
+Full-stack developer and researcher at [LARCES](https://larces.uece.br), a computer networks and security research lab at [UECE](https://www.uece.br). I build applications end to end, from database to interface.
 
----
+## Background
 
-if something here caught your attention, you know where to find me.
+- BSc in Computer Science, City University of São Paulo (UNICID)
+- Specialization in Software Engineering, Focus College (FFOCUS)
+- Special student in the MSc in Computer Science at Ceará State University (UECE)
+- Exploring SDN and P4, programmable networks and data planes
+- Research interests: network security and AI-based malware detection
+
+## Stack
+
+**Backend:** Python · Django · Django REST Framework · FastAPI · Flask · Celery · Redis · SQLAlchemy · Alembic · PostgreSQL · MongoDB · SQL Server
+
+**Frontend:** TypeScript · React · Next.js · Vue · Nuxt · TailwindCSS
+
+**Infra:** Docker · Docker Compose · Nginx · Linux
 
 ---
 
